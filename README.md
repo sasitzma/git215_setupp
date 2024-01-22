@@ -1,2 +1,2 @@
 # git215_setup
- ## Author: Sam Sitzman
+## Author: Sam Sitzman
